@@ -1,6 +1,40 @@
-{
-  "scenario": "Resultaten i stadens högstadieskolor har börjat spreta. Lärarna beskriver en vardag där de både ska undervisa, lugna, dokumentera – och ibland bara få dagen att gå ihop. Ni måste välja hur skolan ska kännas att gå till varje dag.",
-  "options": ["Inför tydligare ordning och konsekvenser. Mobiler samlas in, sena ankomster följs upp direkt och vuxna syns oftare i korridorerna. Skoldagen får tydligare ramar och många elever beskriver en oväntad lättnad i att veta exakt vad som gäller – även om vissa snabbt blir mycket skickliga på att tänja på definitionen av “i tid”." ]
-  
-}
-
+[
+  {
+    "scenario": "Resultaten i stadens högstadieskolor har börjat spreta. Lärarna beskriver en vardag där de både ska undervisa, lugna, dokumentera – och ibland bara få dagen att gå ihop. Ni måste välja hur skolan ska kännas att gå till varje dag.",
+    "options": [
+      {
+        "text": "Inför tydligare ordning och konsekvenser. Mobiler samlas in, sena ankomster följs upp direkt och vuxna syns oftare i korridorerna. Skoldagen får tydligare ramar och många elever beskriver en oväntad lättnad i att veta exakt vad som gäller – även om vissa snabbt blir mycket skickliga på att tänja på definitionen av “i tid”.",
+        "feedback": "Studieron ökar, men klimatet blir också stramare, och inte alla trivs lika bra i en skola där regler märks mer än relationer.",
+        "characters": [
+          "spegelbäraren",
+          "arkivarien"
+        ]
+      },
+      {
+        "text": "Bygg ut elevhälsa och trygghetsstöd. Fler kuratorer, trygghetsteam och tid för samtal gör att konflikter fångas upp tidigt. Skolan får ett mjukare tempo och fler elever orkar vara kvar hela dagen – och någon konstaterar att det numera finns fler vuxna att prata med än grupprum att sitta i.",
+        "feedback": "Samtidigt kräver det fingertoppskänsla att inte låta omsorgen helt ta över schemat, och undervisningen får ibland kämpa för sitt utrymme."
+      },
+      {
+        "text": "Satsa hårt på vissa skolor och klasser. Mindre grupper, fler vuxna och riktade resurser sätts in i ett begränsat antal skolor och klasser. Där märks förändringen direkt: fler lektioner som hålls hela vägen, färre avbrott och vuxna som faktiskt hinner följa upp samma elev flera dagar i rad.",
+        "feedback": "På andra skolor börjar jämförelserna ta form i personalrummen. Rektorer samlar exempel, lärare fyller i avvikelser och någon säger halvt på skämt: “Vi kanske också borde se lite sämre ut i statistiken.” Fokus flyttas långsamt från undervisning till att visa att man är i behov av nästa satsning."
+      },
+      {
+        "text": "Rensa bland projekt och fokusera på undervisning. Ni stoppar nya satsningar, kortar mötestiden och plockar bort parallella projekt. Lärarna får fler hela lektioner utan avbrott, hinner rätta färdigt och går hem utan att ligga efter i tre olika utvecklingsspår samtidigt.",
+        "feedback": "Men när en lärare ser att något inte fungerar – en klass som tappar greppet, en elevgrupp som behöver ett nytt arbetssätt – finns inget utrymme att testa något annat. Svaret blir ofta: “Det där låter rimligt, men just nu kör vi på det vi har.” För läraren innebär det stabilitet, men också maktlöshet. För eleverna betyder det att undervisningen fortsätter som vanligt, även när alla i rummet märker att den inte riktigt når fram."
+      }
+    ]
+  },
+  {
+    "scenario": "Vårdcentralerna är överbelastade. Alla är inte akut sjuka – men många är oroliga, slitna eller har problem som inte riktigt passar i ett formulär. Ni måste välja vilken sorts vård vardagen ska präglas av.",
+    "options": [
+      {
+        "text": "Gör vården snabb och konsekvent. Ni standardiserar besöken: kortare tider, tydliga ramar och snabba beslut. Fler patienter kommer in, får besked och går vidare – och systemet slutar vara konstant överfullt.",
+        "feedback": "Men det som inte passar i mallen får svårt att ta plats. Patienter med diffusa symptom skickas hem flera gånger, tills någon till slut kommer tillbaka betydligt sjukare än första gången. Kärna: Effektivitet före nyanser. Risk: Allvarliga tillstånd som inte är tydliga från start missas.",
+        "characters": [
+          "maskmakaren",
+          "spegelbäraren"
+        ]
+      }
+    ]
+  }
+]

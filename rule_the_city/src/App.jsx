@@ -1,17 +1,17 @@
-//import { useState } from 'react'
-import './App.css'
-import Question from './pages/Question.jsx'
+import { useState } from 'react';
+import './App.css';
+import Question from './pages/Question.jsx';
 
-function App() {
+export default function App() {
+    const [characterScores, setCharacterScores] = useState({});
 
-  return (
-    <>
-      <div><Question></Question>
-     
-      </div>
-  
-    </>
-  )
+    return (
+        <div>
+            <Question
+                characterScores={characterScores}
+                setCharacterScores={setCharacterScores}
+            ></Question>
+            {Object.keys(characterScores).map(key => (<p>{key}: {characterScores[key]}</p>))}
+        </div>
+    );
 }
-
-export default App

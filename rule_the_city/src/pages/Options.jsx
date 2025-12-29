@@ -3,10 +3,10 @@ export default function Options({ options, setOption, characterScores, setCharac
         <div className="row g-4">
             {options.map((option, index) => (
                 <div key={index} className="col-12 col-md-6 d-flex">
-                    <div className="card w-100 h-80">
+                    <div className="card w-100 h-80 border border-secondary-subtle">
                         <div className="card-body">
                             <button
-                                className="btn btn-primary mb-3"
+                                className="btn btn-warning mb-3"
                                 onClick={() => {
                                     setOption(index);
 

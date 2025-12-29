@@ -1,13 +1,14 @@
 {
   "Spegelbäraren": {
-    "image": "spegelbäraren_4.jpg",
+    "image": "spegelbäraren_4.png",
     "text": "Jungiansk arketyp: Självet (The Self) (helhet och reflektion) <br> Medborgarroll: Den reflekterande medborgaren <br> Värden: Insikt, Empati, Sammanhang <br> Skugga: Ser komplexiteten men tvekar inför handling. <br> Gåva: Skapar förståelse där andra fastnar i polarisering. <br> Budskap: Eftertanke är inte passivitet. Den är ett sätt att ta världen på allvar. <br> Efter några år: Samhället har blivit djupt eftertänksamt. Förståelsen är hög – men vissa beslut dröjer. <br> Reflekterande fråga: När ett beslut måste tas snabbt – vill du ofta förstå alla konsekvenser först, även om andra redan vill gå vidare? <br> Råd: Välj en insikt som känns tillräckligt klar och omsätt den i handling – justering kan komma senare."
   },
   "Brännaren": {
-    "image": "brannaren_1.jpg",
+    "image": "brannaren_1.png",
     "text": "Jungiansk arketyp: Skuggan (The Shadow) (förträngd kraft och förändring) <br> Medborgarroll: Förändringsdrivaren <br> Värden: Mod, Förändring, Autenticitet <br> Skugga: River innan något nytt hunnit byggas. <br> Gåva: Vågar säga det förbjudna när systemet stelnat. <br> Budskap: Ilska är ofta omsorg som inte blivit hörd. <br> Efter några år: Samhället har förändrats snabbt. Mycket är nytt – allt är inte färdigt. <br> Reflekterande fråga: När något känns fel – är din första impuls att säga ifrån direkt, snarare än att vänta in samsyn? <br> Råd: Rikta din kraft mot ett tydligt nästa steg så att förändringen håller över tid."
   },
   "Maskmakaren": {
+    "image": "",
     "text": "Jungiansk arketyp: Personan (Persona) (social anpassning) <br> Medborgarroll: Den sociala navigatören <br> Värden: Samförstånd, Social tillit, Stabilitet <br> Skugga: Undviker konflikt även när den behövs. <br> Gåva: Håller samtalet vid liv när det annars hade brutit samman. <br> Budskap: Diplomati är inte att ljuga – det är att bära relationer genom svåra rum. <br> Efter några år: Samhället är stabilt och vänligt – men vissa frågor ligger kvar under ytan. <br> Reflekterande fråga: När en konflikt uppstår – försöker du ofta lugna situationen även om din egen åsikt får stå tillbaka? <br> Råd: Säg det viktiga tidigt och lugnt – det skapar ofta mer trygghet än tystnad."
   },
   "Arkivarien": {
@@ -15,12 +16,15 @@
     "text": "Jungiansk arketyp: Den vise (The Sage) (kunskap och sanning) <br> Medborgarroll: Kunskapsmedborgaren <br> Värden: Kunskap, Långsiktighet, Ansvar <br> Skugga: Får rätt men utan genomslag. <br> Gåva: Bevarar det kollektiva minnet när andra vill gå vidare. <br> Budskap: Sanning är inte alltid populär, men den är uthållig. <br> Efter några år: Samhället vet vad som borde ha gjorts – ibland först i efterhand. <br> Reflekterande fråga: Vill du ofta förstå hela bakgrunden innan du föreslår en lösning? <br> Råd: Dela din kunskap i mindre steg – handling kan ske även innan allt är känt."
   },
   "Bäraren": {
+    "image": "caregiver_bararen.png",
     "text": "Jungiansk arketyp: Vårdaren (The Caregiver) (omsorg och skydd) <br> Medborgarroll: Omsorgsmedborgaren <br> Värden: Trygghet, Solidaritet, Tillit <br> Skugga: Bär för mycket, för länge. <br> Gåva: Ser till att ingen lämnas efter. <br> Budskap: Omsorg är samhällets tystaste, men starkaste infrastruktur. <br> Efter några år: Samhället håller ihop – men den som bär mest riskerar att bli utmattad. <br> Reflekterande fråga: Tar du ofta extra ansvar när någon riskerar att hamna utanför? <br> Råd: Be om avlastning i tid – omsorg blir hållbar när den delas."
   },
   "Narrstrategen": {
+    "image": "narrstrategen_trickster.png",
     "text": "Jungiansk arketyp: Trickstern (The Trickster) (ifrågasättande och lek) <br> Medborgarroll: Den ifrågasättande medborgaren <br> Värden: Kreativitet, Transparens, Förnyelse <br> Skugga: Tas inte på allvar när det verkligen gäller. <br> Gåva: Avslöjar maktens absurditet utan att predika. <br> Budskap: Skrattet kan öppna dörrar som ilska stänger. <br> Efter några år: Samhället är kreativt och självkritiskt – ibland längre än nödvändigt. <br> Reflekterande fråga: Använder du ofta humor eller ironi för att visa på problem? <br> Råd: Låt skämtet följas av en tydlig poäng så att insikten består."
   },
   "Styraren": {
+    "image": "",
     "text": "Jungiansk arketyp: Härskaren (The Ruler) (ordning och kontroll) <br> Medborgarroll: Den ansvarstagande medborgaren <br> Värden: Ordning, Ansvar, Riktning <br> Skugga: Kontroll som kväver det levande. <br> Gåva: Skapar ramar där andra kan verka tryggt. <br> Budskap: Struktur är inte motsatsen till frihet – utan dess förutsättning. <br> Efter några år: Samhället är stabilt och välorganiserat – ibland på bekostnad av spontanitet. <br> Reflekterande fråga: Känner du ett behov av att skapa tydliga ramar när det blir rörigt? <br> Råd: Lämna alltid en öppning – det är där utveckling kan ta form."
   }
 }

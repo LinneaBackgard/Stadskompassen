@@ -21,8 +21,8 @@ export default function Feedback({
     };
 
     return (
-        <Container className="min-vh-100 d-flex justify-content-center align-items-center">
-            <Card style={{ width: "100%", maxWidth: "64rem" }}>
+        <Container className="g-0">
+            <Card className="border border-secondary-subtle">
                 <div className="row g-0">
                     <div className="col-md-6">
                         <Card.Img
@@ -65,7 +65,7 @@ export default function Feedback({
                             </Card.Text>
 
                             <div className="d-flex justify-content-end mt-3">
-                                <Button variant="primary" onClick={handleNext}>
+                                <Button variant="info" onClick={handleNext}>
                                     Nästa
                                 </Button>
                             </div>

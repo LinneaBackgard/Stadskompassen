@@ -1,4 +1,4 @@
-:root {
+/* :root {
   font-family: system-ui, Avenir, Helvetica, Arial, sans-serif;
   line-height: 1.5;
   font-weight: 400;
@@ -39,10 +39,10 @@ h2 {
   font-size: 0.5em;
 }
 
-/*img {
+img {
   max-width: 100%;
   max-height: auto;
-}*/
+}
 
 .card-img-top {
     width: 100%;
@@ -82,4 +82,10 @@ button:focus-visible {
   button {
     background-color: #f9f9f9;
   }
+} */
+
+body {
+  background-image: url("background.svg");
+  background-repeat: no-repeat;
+  background-size: cover;
 }

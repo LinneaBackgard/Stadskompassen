@@ -13,15 +13,18 @@ export default function Question({ characterScores, setCharacterScores, setPage 
     return (
         <Container className="py-5">
             <div className="mx-auto" style={{ maxWidth: "1000px" }}>
-                {/* Header / Frågeruta */}
-                <div className="p-4 rounded-4 border bg-body-tertiary mb-4">
+                {/* Header / Frï¿½geruta */}
+                <div className="p-4 rounded-2 border bg-body-tertiary mb-4 border border-secondary">
                     <div className="d-flex justify-content-between align-items-start gap-3">
                         <div>
-                            <h1 className="fs-4 mb-2">{q.category}</h1>
+                            <h1 className="text-center fs-4 mb-2">
+                                {q.category}
+                                <img src={import.meta.env.BASE_URL + "icons/" + q.icon} style={{ height: "1em", marginLeft: "8px", marginTop: "-4px" }} />
+                            </h1>
                             <p className="text-start fs-5 mb-0">{q.scenario}</p>
                         </div>
 
-                        {/* Progress (valfritt men gör sidan mer “spelig” och överskådlig) */}
+                        {/* Progress (valfritt men gï¿½r sidan mer ï¿½speligï¿½ och ï¿½verskï¿½dlig) */}
                         <div className="text-nowrap small opacity-75">
                             {currentQuestionIndex + 1} / {questions.length}
                         </div>

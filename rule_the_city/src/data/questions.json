@@ -1,6 +1,7 @@
 [
   {
     "category": "Utbildning",
+    "icon": "icon_education.png",
     "scenario": "Resultaten i stadens högstadieskolor har börjat spreta. Lärarna ska både undervisa, lugna, dokumentera - och ibland bara få dagen att gå ihop. Ni måste välja hur skolan ska kännas att gå till varje dag.",
     "options": [
       {
@@ -53,6 +54,7 @@
   },
   {
     "category": "Vård",
+    "icon": "icon_health.png",
     "scenario": "Vårdcentralerna är överbelastade. Alla är inte akut sjuka - men många är oroliga, slitna eller har problem som inte riktigt passar i ett formulär. Ni måste välja vilken sorts vård vardagen ska präglas av.",
     "options": [
       {
@@ -93,6 +95,7 @@
   },
   {
     "category": "Infrastruktur",
+    "icon": "icon_infrastructure.png",
     "scenario": "En bro används av tusentals varje dag. Den är inte akut farlig - men tillräckligt sliten för att ingen riktigt slappnar av när en tung buss passerar. Ni måste välja hur staden ska leva med bron.",
     "options": [
       {
@@ -138,7 +141,7 @@
         "button": "Vänta tills mätningarna säger stopp",
         "text": "Ni övervakar bron med sensorer och låter siffrorna styra. Så länge värdena är gröna görs inga stora ingrepp.",
         "feedback": "Det känns rationellt och datadrivet – tills stängningen kommer över en natt och alla måste improvisera nya rutiner på studs, som om bron aldrig varit självklar. Planen är logisk, men chocken blir social.\n\nKärna: Mätbarhet före magkänsla.\nRisk: Plötslig kris utan förberedelse, där vardagen slås sönder snabbare än kommunikationen hinner med.",
-        "image": "bridge_crash.png",
+        "image": "bridge_crash.jpg",
         "characters": {
           "Arkivarien": 2,
           "Narrstrategen": 2,
@@ -151,6 +154,7 @@
   },
   {
     "category": "Klimat",
+    "icon": "icon_climate.png",
     "scenario": "Staden måste minska sina utsläpp snabbt - inte genom visioner, utan genom beslut som märks i vardagen redan nästa vinter. Ni måste välja hur klimatomställningen ska kännas att leva med.",
     "options": [
       {
@@ -209,6 +213,7 @@
   },
   {
     "category": "Brottslighet",
+    "icon": "icon_crime.png",
     "scenario": "Otryggheten ökar i vissa områden. Många brott är små, men påverkar vardagen och tilliten: cyklar försvinner, rutor krossas och folk tar omvägar hem på kvällen. Ni måste välja hur trygghet ska byggas i vardagen.",
     "options": [
       {
@@ -267,6 +272,7 @@
   },
   {
     "category": "Arbetslöshet",
+    "icon": "icon_unemployment.png",
     "scenario": "Trots lediga jobb fastnar människor i arbetslöshet. Många står nära arbetsmarknaden men fastnar i ansökningar, korta vikariat eller svajig hälsa. Ni måste välja hur vägen tillbaka till arbete ska se ut i vardagen.",
     "options": [
       {
@@ -325,6 +331,7 @@
   },
   {
     "category": "Försvar",
+    "icon": "icon_defense.png",
     "scenario": "Säkerhetsläget är osäkert. Hoten är inte alltid synliga, men känns i bakgrunden: cyberattacker, desinformation, elavbrott och frågan om vem som gör vad när något oväntat händer. Ni måste välja hur trygghet ska byggas - även när inget händer.",
     "options": [
       {

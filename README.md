@@ -7,7 +7,7 @@ Spelet saknar rätt och fel svar. Resultatet är en **beslutsprofil** som kan an
 för samtal, jämförelser och reflektion kring demokrati, ansvar och ledarskap.
 
 🔗 **Spela här:**  
-https://linneabackgard.github.io/Stadskompassen_ENG/
+https://linneabackgard.github.io/Stadskompassen/
 
 ---
 
@@ -81,4 +81,4 @@ Handledarguide (PDF) finns tillgänglig via spelet.
 ## Licens & användning
 
 Projektet är avsett för pedagogiskt och icke-kommersiellt bruk.
-Kontakta upphovspersonen vid intresse för vidare användning eller samarbete.
+Kontakta upphovspersonerna vid intresse för vidare användning eller samarbete.

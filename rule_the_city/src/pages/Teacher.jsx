@@ -8,9 +8,9 @@ export default function Teacher({ setPage }) {
                 <h1 className="text-center fs-3 mb-2" style={{ color: "#33b9bdff" }}>Introduktion</h1>
             </div>
             <Card className="border border-secondary-subtle p-4">
-                <Card.Title className="text-start fs-4 mb-3" style={{color: "#23a5aaff" }}>Vad är samhällsquizet?</Card.Title>
+                <Card.Title className="text-start fs-4 mb-3" style={{color: "#23a5aaff" }}>Vad är Stadskompassen?</Card.Title>
                 <Card.Text className="fs-5">
-                    Samhällsquizet är ett reflektionsverktyg som visar hur människor prioriterar värden när samhällsbeslut kräver kompromisser.
+                    Stadskompassen är ett reflektionsverktyg som visar hur människor prioriterar värden när samhällsbeslut kräver kompromisser.
                     Det finns inga rätt eller fel svar. Resultatet är en beslutsprofil, inte en åsikt eller ett provresultat.
                 </Card.Text>
                 <Card.Title className="text-start fs-4 mb-3" style={{ color: "#23a5aaff" }}>Hur fungerar det??</Card.Title>

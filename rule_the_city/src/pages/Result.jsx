@@ -22,7 +22,7 @@ export default function Result({ characterScores }) {
                 <div className="row g-0">
                     <div className="col-md-6">
                         <Card.Img
-                            src={import.meta.env.BASE_URL + characters[characterKey].image}
+                            src={import.meta.env.BASE_URL + "characterimages/" + characters[characterKey].image}
                             alt=""
                             style={{
                                 width: "100%",

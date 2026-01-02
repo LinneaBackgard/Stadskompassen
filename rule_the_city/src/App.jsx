@@ -3,6 +3,7 @@ import './App.css';
 import Start from './pages/Start.jsx';
 import Question from './pages/Question.jsx';
 import Result from './pages/Result.jsx';
+import Teacher from './pages/Teacher.jsx';
 
 export default function App() {
     const [characterScores, setCharacterScores] = useState({});
@@ -26,6 +27,11 @@ export default function App() {
                 <Start
                     setPage={setPage}
                 ></Start> : null
+            }
+            {Page === "teacher" ?
+                <Teacher
+                    setPage={setPage}
+                ></Teacher> : null
             }
             {Page === "question" ?
                 <Question

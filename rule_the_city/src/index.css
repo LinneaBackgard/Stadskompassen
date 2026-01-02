@@ -85,7 +85,8 @@ button:focus-visible {
 } */
 
 body {
-  background-image: url("background.svg");
-  background-repeat: no-repeat;
-  background-size: cover;
+    background-image: url("/Stadskompassen/background.svg");
+    /*background-image: url("background.svg");*/
+    background-repeat: no-repeat;
+    background-size: cover;
 }

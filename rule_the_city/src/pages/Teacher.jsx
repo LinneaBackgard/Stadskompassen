@@ -45,7 +45,7 @@ export default function Teacher({ setPage }) {
                 <Card.Text className="fs-5 mb-5">
                     Här finns en nedladdningsbar handledarguide som fördjupar quizets syfte, metod och pedagogiska användning.
                     Guiden innehåller bakgrund, lärandemål, metodförklaring, karaktärsöversikt samt konkreta förslag på hur quizet kan användas i undervisning eller gruppsamtal.
-                    <br /> <br /> Handledarguiden finns här (PDF): <a className="mb-4" href={import.meta.env.BASE_URL + "Handledarguide_Samhallsquizet.pdf"} style={{ color: "#3465a4" }}>Lärarhandledning</a>
+                    <br /> <br /> Handledarguiden finns här (PDF): <a className="mb-4" href={import.meta.env.BASE_URL + "Handledarguide_Stadskompassen.pdf"} style={{ color: "#3465a4" }}>Lärarhandledning</a>
                 </Card.Text>
                 <button className="btn fs-5" style={{ backgroundColor: "#72cccf" }} onClick={() => setPage("start")}>Tillbaka till startsidan</button>
             </Card>

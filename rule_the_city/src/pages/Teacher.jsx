@@ -13,7 +13,7 @@ export default function Teacher({ setPage }) {
                     Stadskompassen är ett reflektionsverktyg som visar hur människor prioriterar värden när samhällsbeslut kräver kompromisser.
                     Det finns inga rätt eller fel svar. Resultatet är en beslutsprofil, inte en åsikt eller ett provresultat.
                 </Card.Text>
-                <Card.Title className="text-start fs-4 mb-3" style={{ color: "#23a5aaff" }}>Hur fungerar det??</Card.Title>
+                <Card.Title className="text-start fs-4 mb-3" style={{ color: "#23a5aaff" }}>Hur fungerar det?</Card.Title>
                 <Card.Text className="fs-5">
                     Deltagaren möter vardagsnära samhällsdilemman (t.ex. skola, trygghet, klimat).
                     Varje svarsalternativ innebär både vinster och kostnader och stärker flera värden samtidigt.

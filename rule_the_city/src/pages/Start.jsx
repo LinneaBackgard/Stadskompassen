@@ -5,7 +5,9 @@ export default function Start({ setPage }) {
     return (
         <Container className="py-5 mx-auto" style={{ maxWidth: "1000px" }}>
             <Card className="border border-secondary-subtle p-4">
-                <Card.Title className="text-center fs-2 mt-3 mb-4" style={{color: "#33b9bdff"}}>Välkommen</Card.Title>
+                <p style={{textAlign: "right"}}>Svenska / <a href="https://linneabackgard.github.io/Stadskompassen_ENG" style={{ color: "#3465a4" }}>English</a></p>
+                <Card.Title className="text-center fs-2 mt-1 mb-4" style={{color: "#33b9bdff"}}>Stadskompassen</Card.Title>
+                <Card.Text className="fs-5 fw-bold">Välkommen!</Card.Text>
                 <Card.Text className="fs-5">
                     Alla samhällen formas av beslut.
                     Vissa tas i mötesrum, andra i korridorer, på raster, i vardagen.

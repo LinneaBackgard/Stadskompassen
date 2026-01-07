@@ -7,7 +7,7 @@
       {
         "button": "Inför tydligare ordning och konsekvenser",
         "text": "Mobiler samlas in, sena ankomster följs upp direkt och vuxna syns oftare i korridorerna. Reglerna blir tydliga och lika för alla.",
-        "feedback": "Skoldagen får fasta ramar och många elever känner oväntad lättnad i att veta exakt vad som gäller. Studieron ökar, men klimatet blir stramare och vissa blir snabbt skickliga på att tänja på vad som räknas som ”i tid”.\n\nKärna: Struktur och förutsägbarhet före flexibilitet.\nRisk: Relationer och tillit får mindre utrymme, och skolan kan kännas mer kontrollerande än trygg.",
+        "feedback": "Vardagen blir stramare och elever som behöver mer relationellt stöd kan känna sig begränsade av regler som styr allt från mobilanvändning till rörelse i korridorerna. Samtidigt ökar studieron och många elever upplever en tydligare struktur och större trygghet under skoldagen.\n\nKärna: Struktur och förutsägbarhet före flexibilitet.\nRisk: Minskad tillit och upplevd kontroll.",
         "image": "education_onehandup.jpg",
         "characters": {
           "Styraren": 2,
@@ -19,7 +19,7 @@
       {
         "button": "Bygg ut elevhälsa och trygghetsstöd",
         "text": "Fler kuratorer, trygghetsteam och tid för samtal gör att konflikter fångas tidigt och fler orkar vara kvar hela dagen.",
-        "feedback": "Skolan får ett mjukare tempo och fler elever känner att det finns vuxna som faktiskt hinner lyssna. Samtidigt krävs fingertoppskänsla så att omsorgen inte tar över schemat – ibland känns det som att det finns fler vuxna att prata med än grupprum att sitta i.\n\nKärna: Trygghet och närvaro före tempo.\nRisk: Undervisningens tid och fokus kan pressas undan, och kunskapsmålen blir svårare att hålla ihop.",
+        "feedback": "Undervisningen får mindre utrymme när samtal, uppföljningar och stödinsatser tar plats under skoldagen och vissa lektioner tappar tempo och fokus. Samtidigt fångas mående och konflikter upp tidigare och fler elever känner sig sedda och orkar stanna kvar hela dagen.\n\nKärna: Trygghet och närvaro före tempo.\nRisk: Undervisning trängs undan.",
         "image": "education_psychology.jpg",
         "characters": {
           "Spegelbäraren": 2,
@@ -30,7 +30,7 @@
       {
         "button": "Satsa hårt på vissa skolor och klasser",
         "text": "Riktade resurser sätts in: mindre grupper, fler vuxna och tät uppföljning i ett begränsat antal skolor och klasser.",
-        "feedback": "Där satsningen hamnar märks förändringen direkt: fler lektioner hålls hela vägen och vuxna hinner följa samma elev flera dagar i rad. Men på andra skolor börjar jämförelserna växa i personalrummen – rektorer samlar exempel och någon säger halvt på skämt: ”Vi kanske också borde se lite sämre ut i statistiken.” Fokus glider från undervisning till att bevisa behov.\n\nKärna: Effekt där det brinner mest.\nRisk: Incitament att ”se sämre ut”, splittring mellan skolor och mer energi på siffror än på lärande.",
+        "feedback": "På skolor som inte prioriteras växer känslan av orättvisa och fokus flyttas från undervisning till att visa behov och siffror. I de utvalda klasserna märks samtidigt tydliga förbättringar med färre avbrott, närmare vuxenkontakt och bättre möjlighet att följa elever över tid.\n\nKärna: Effekt där det brinner mest.\nRisk: Splittring och fokus på siffror.",
         "image": "education_oneonone.jpg",
         "characters": {
           "Maskmakaren": 2,
@@ -41,7 +41,7 @@
       {
         "button": "Rensa bland projekt och fokusera på undervisning",
         "text": "Ni stoppar nya satsningar, kortar mötestiden och skalar bort parallella projekt så lärarna får fler hela lektioner och hinner ikapp.",
-        "feedback": "Lärarna får arbetsro: rättar färdigt, slipper tre utvecklingsspår samtidigt och går hem utan att ligga efter. Men när någon ser att något inte fungerar – en klass som tappar greppet eller en grupp som behöver nytt arbetssätt – finns inget utrymme att testa annat. Svaret blir ofta: ”Det låter rimligt, men nu kör vi på det vi har.” Stabilitet för vuxna, men undervisningen fortsätter som vanligt även när alla i rummet märker att den inte riktigt når fram.\n\nKärna: Fokus och genomförande före innovation.\nRisk: Maktlöshet i vardagen, och svårighet att anpassa när behoven förändras.",
+        "feedback": "När utrymmet att ändra arbetssätt försvinner fortsätter undervisning som inte riktigt når fram och både elever och lärare blir kvar i samma upplägg. Samtidigt minskar avbrott från möten och sidouppgifter och lektionerna kan genomföras som planerat från start till slut.\n\nKärna: Fokus och genomförande före innovation.\nRisk: Låsning och minskad anpassning.",
         "image": "education_class.jpg",
         "characters": {
           "Arkivarien": 2,
@@ -60,7 +60,7 @@
       {
         "button": "Gör vården snabb och konsekvent",
         "text": "Ni standardiserar besöken: kortare tider, tydliga ramar och snabba beslut så fler hinner få besked och gå vidare.",
-        "feedback": "Systemet slutar vara konstant överfullt och flödet blir förutsägbart. Men det som inte passar i mallen får svårt att ta plats – diffusa symptom skickas hem flera gånger, tills någon till slut kommer tillbaka betydligt sjukare än första gången.\n\nKärna: Effektivitet före nyanser.\nRisk: Allvarliga tillstånd som inte är tydliga från start missas, och människor tappar förtroende när de känner sig ”avklarade”.",
+        "feedback": "Patienter med diffusa eller svårtolkade besvär riskerar att skickas hem utan svar och vissa söker hjälp först när problemen förvärrats. Samtidigt blir vården mer tillgänglig för många med kortare väntetider och ett jämnare flöde.\n\nKärna: Effektivitet före nyanser.\nRisk: Missade tillstånd och tappat förtroende.",
         "image": "health_clinic.jpg",
         "characters": {
           "Arkivarien": 2,
@@ -71,7 +71,7 @@
       {
         "button": "Gör vården relationell och långsiktig",
         "text": "Ni bygger vården kring kontinuitet: samma läkare, längre samtal och tid att se hela människan och följa upp över tid.",
-        "feedback": "För många blir vården trygg och begriplig – någon minns, ser mönster och fångar sådant som annars glider förbi. Men systemet rör sig långsammare: för den som söker vård för något nytt kan första tiden dröja, och oron får ofta leva längre än nödvändigt.\n\nKärna: Trygghet före tempo.\nRisk: Fördröjd hjälp vid nya eller snabbt uppkomna problem, och ökade köer när samtalen blir längre.",
+        "feedback": "För nya eller akuta problem kan väntan bli lång och oro hinner växa innan första mötet sker. Samtidigt skapas trygghet och förståelse för många genom kontinuitet, igenkänning och vård som ser mönster över tid.\n\nKärna: Trygghet före tempo.\nRisk: Längre köer och sen hjälp.",
         "image": "health_stetoscope.jpg",
         "characters": {
           "Spegelbäraren": 2,
@@ -82,7 +82,7 @@
       {
         "button": "Flytta ansvar från vården till individen",
         "text": "Ni satsar på egenvård, digital rådgivning och tydliga riktlinjer för när man ska söka vård. Många får snabb hjälp via appar och checklistor.",
-        "feedback": "Fler lär sig hantera enklare besvär själva och trycket minskar. Men gränsen mellan ”det här klarar du själv” och ”det här borde någon titta på” blir svår – vissa väntar för länge och söker hjälp för sent, inte för att vården är stängd utan för att ansvaret flyttats över.\n\nKärna: Självständighet före professionell bedömning.\nRisk: Allvarliga problem upptäcks först när de blivit stora, och ojämlikhet ökar när alla inte kan tolka råd eller driva sin egen vård.",
+        "feedback": "Det blir svårare att avgöra när egenvård inte längre räcker och vissa söker professionell hjälp först när problemen blivit allvarliga. Samtidigt får många snabb tillgång till råd och lär sig hantera enklare besvär utan att fastna i vårdköer.\n\nKärna: Självständighet före professionell bedömning.\nRisk: Sen upptäckt och ökad ojämlikhet.",
         "image": "health_digital.jpg",
         "characters": {
           "Narrstrategen": 2,
@@ -101,7 +101,7 @@
       {
         "button": "Stäng bron helt i ett svep",
         "text": "Ni stänger bron helt: avspärrningar, byggbodar och nya rutiner. Allt görs på en gång för en trygg och framtidssäkrad bro.",
-        "feedback": "Under tiden hinner folk byta favoritomväg, byta jobb och börja säga ”innan bron” som ett tidsbegrepp. Vardagen blir seg av köer och omvägar – men när bron öppnar igen försvinner den där lilla spänningen i kroppen varje gång en tung buss dundrar över.\n\nKärna: Total lösning före vardagsflöde.\nRisk: Stora störningar här och nu kan slå hårt mot handel, pendling och tillit – och vissa rutiner återhämtar sig aldrig fullt.",
+        "feedback": "Köer, omvägar och inställda vanor slår mot pendling och handel, och många hinner bygga ett nytt vardagsmönster som inte riktigt hittar tillbaka. Samtidigt blir bron ordentligt åtgärdad på en gång och när den öppnar igen kan folk passera utan den där spänningen i kroppen vid varje tungt fordon.\n\nKärna: Total lösning före vardagsflöde.\nRisk: Kraftiga störningar i vardagen.",
         "image": "bridge_closed.png",
         "characters": {
           "Styraren": 2,
@@ -114,7 +114,7 @@
       {
         "button": "Gör bron så osynlig som möjligt",
         "text": "Ni reparerar i små steg, ofta nattetid. Trafiken flyter och rutinerna består, medan bron hålls igång med återkommande underhåll.",
-        "feedback": "Bron blir som ett kommunalt husdjur: ständigt ompysslad, aldrig riktigt frisk. Allt fortsätter nästan som vanligt – men varje tung lastbil får folk att kasta en snabb blick mot brofästet och undra hur många ”småfix” som krävs innan det blir en stor sak.\n\nKärna: Minsta möjliga störning i vardagen.\nRisk: Långvarig oro och ackumulerad skuld; plötsligt kan det bli akut ändå, fast utan att staden mentalt hunnit ställa om.",
+        "feedback": "Oro och osäkerhet hänger kvar när man aldrig vet om nästa mätning eller lastbil blir droppen, och underhållsskulden kan växa utan att märkas förrän sent. Samtidigt fortsätter vardagen nästan som vanligt med färre störningar för resor, jobb och leveranser.\n\nKärna: Minsta möjliga störning i vardagen.\nRisk: Långvarig oro och skuld.",
         "image": "bridge_halfclosed.png",
         "characters": {
           "Bäraren": 2,
@@ -127,7 +127,7 @@
       {
         "button": "Gör bron till ett gemensamt stadsprojekt",
         "text": "Ni renoverar stegvis, håller bron delvis öppen och gör processen synlig: skyltar som förklarar, möten som bjuder in, och uppdateringar som folk kan följa.",
-        "feedback": "Fler känner sig inkluderade och förstår varför det tar tid – även om klagomålen är många. Men bygget blir ett ständigt samtalsämne och alla får öva på att leva i ”nästan klart”: bron är aldrig helt stängd, men heller aldrig riktigt färdig.\n\nKärna: Delaktighet och begriplighet före snabbhet.\nRisk: Projekttrötthet och utdragen irritation; när allt pågår länge kan förtroendet erodera trots goda intentioner.",
+        "feedback": "Det pågår så länge att irritationen riskerar att bli vardag, och många tröttnar på att leva i ett läge där bron aldrig är riktigt klar. Samtidigt förstår fler vad som händer och varför, vilket kan bygga tålamod och delaktighet även när det skaver.\n\nKärna: Delaktighet och begriplighet före snabbhet.\nRisk: Projekttrötthet och tappat förtroende.",
         "image": "bridge_talk.png",
         "characters": {
           "Maskmakaren": 2,
@@ -140,7 +140,7 @@
       {
         "button": "Vänta tills mätningarna säger stopp",
         "text": "Ni övervakar bron med sensorer och låter siffrorna styra. Så länge värdena är gröna görs inga stora ingrepp.",
-        "feedback": "Det känns rationellt och datadrivet – tills stängningen kommer över en natt och alla måste improvisera nya rutiner på studs, som om bron aldrig varit självklar. Planen är logisk, men chocken blir social.\n\nKärna: Mätbarhet före magkänsla.\nRisk: Plötslig kris utan förberedelse, där vardagen slås sönder snabbare än kommunikationen hinner med.",
+        "feedback": "När gränsen väl passeras kan en stängning komma plötsligt och tvinga fram improviserade omvägar och akut frustration innan någon hunnit förbereda sig. Samtidigt styrs besluten av tydliga mätvärden och resurserna läggs där de ger mest nytta när det verkligen behövs.\n\nKärna: Mätbarhet före magkänsla.\nRisk: Oväntad kris utan förberedelse.",
         "image": "bridge_crash.jpg",
         "characters": {
           "Arkivarien": 2,
@@ -160,7 +160,7 @@
       {
         "button": "Inför tvingande energiregler direkt",
         "text": "Ni inför hårda regler: sänkt inomhustemperatur och begränsad uppvärmning i lokaler och flerbostadshus. Effekten kommer snabbt och märks i vardagen.",
-        "feedback": "Utsläppen går ner direkt och staden lär sig en ny sorts vardagskunskap: vilka tröjor som funkar på jobbet, vilka mötesrum som kräver extra kaffe – och vilka caféer som ”råkar” vara lite varmare. Men det känns också i kroppen varje kväll, och olika hushåll får olika mycket ”klimatpolitik” i vardagsrummet.\n\nKärna: Snabb utsläppsminskning före bekvämlighet.\nRisk: Motstånd och orättvis belastning; om folk fryser i tysthet tappar omställningen legitimitet även när den fungerar.",
+        "feedback": "Kroppen och plånboken märker det direkt, och belastningen blir olika mellan hushåll beroende på bostad, hälsa och marginaler. Samtidigt sjunker utsläppen snabbt och staden bygger nya vanor som ger effekt redan nästa vinter.\n\nKärna: Snabb utsläppsminskning före bekvämlighet.\nRisk: Motstånd och orättvis börda.",
         "image": "climate_sweater.jpg",
         "characters": {
           "Styraren": 2,
@@ -173,7 +173,7 @@
       {
         "button": "Skydda hushållen - låt omställningen ta tid",
         "text": "Ni stöttar hushåll med små marginaler: subventioner för elräkningar, isolering och värmepumpar. Oron sjunker och fler kan planera vintern.",
-        "feedback": "Fler får en hanterbar vinter och mindre stress. Men utsläppen rör sig långsamt, och klimatmålen börjar kännas som en stor renovering: viktig – men inte just nu.\n\nKärna: Social trygghet före snabb kurva.\nRisk: Fördröjd omställning; när tiden går utan tydlig effekt blir nästa steg svårare, dyrare och mer konfliktfyllt.",
+        "feedback": "Utsläppen minskar långsammare och klimatmålen kan börja kännas som något som alltid ska tas sen, vilket gör nästa steg både dyrare och mer konfliktfyllt. Samtidigt får fler en hanterbar vinter med mindre stress och större möjlighet att faktiskt orka ställa om.\n\nKärna: Social trygghet före snabb kurva.\nRisk: Fördröjd omställning.",
         "image": "climate_insulation.jpg",
         "characters": {
           "Bäraren": 2,
@@ -186,7 +186,7 @@
       {
         "button": "Gör klimatomställningen till ett gemensamt stadsprojekt",
         "text": "Ni sätter frivilliga mål och kvartersvisa satsningar. Vissa områden går all in, delar tips och jämför förbrukning, andra märker knappt att något händer.",
-        "feedback": "Engagemanget blir äkta där det finns och kan smitta av sig. Men stadens kurva blir ojämn, och skillnaden mellan ”klimatkvarter” och ”som vanligt-kvarter” blir plötsligt väldigt synlig.\n\nKärna: Gemenskap och motivation före tvång.\nRisk: Ojämlik effekt och splittring; de som redan orkar gör mest, medan resten halkar efter och blir svårare att nå senare.",
+        "feedback": "Effekten blir ojämn och skillnaden mellan kvarter som ställer om och kvarter som kör som vanligt kan skapa irritation och splittring. Samtidigt blir engagemanget äkta där det tar fart och kan sprida idéer och stolthet som drar fler med sig.\n\nKärna: Gemenskap och motivation före tvång.\nRisk: Ojämlik effekt och splittring.",
         "image": "climate_neighborhood.jpg",
         "characters": {
           "Maskmakaren": 2,
@@ -199,7 +199,7 @@
       {
         "button": "Börja med kommunens egna byggnader",
         "text": "Ni energieffektiviserar skolor, idrottshallar och kontor. Resultaten blir tydliga, mätbara och lätta att visa upp.",
-        "feedback": "Det blir snygga resultat i kommunens fastigheter – och någon noterar nöjt att simhallen aldrig varit så behaglig. Men många väntar på när omställningen ska märkas hemma, inte bara i simhallen och på powerpointen.\n\nKärna: Genomförbarhet och förebild före bred påverkan.\nRisk: Symbolpolitik-känsla; om medborgarna inte märker förändring i sin vardag sjunker trycket och takten i nästa steg.",
+        "feedback": "Många upplever att omställningen sker på avstånd, och tålamodet kan minska när förändringen inte märks hemma i köket utan mest i kommunens rapporter. Samtidigt blir resultaten tydliga och mätbara, och kommunen bygger kompetens och tempo som kan användas i nästa steg.\n\nKärna: Genomförbarhet och förebild före bred påverkan.\nRisk: Upplevd symbolpolitik.",
         "image": "climate_offices.jpg",
         "characters": {
           "Arkivarien": 2,
@@ -219,7 +219,7 @@
       {
         "button": "Öka synlig närvaro",
         "text": "Fler uniformer syns på gator och torg, särskilt kvällar och helger. Det blir tydligare att någon har koll när kiosken stänger.",
-        "feedback": "Fler vågar gå hem utan att ringa någon. Men vardagen blir mer bevakad, och folk börjar anpassa sig: prata lägre, byta plats att hänga på och tänka en extra gång innan något kan tolkas fel.\n\nKärna: Avskräckning och ordning genom närvaro.\nRisk: Minskad spontanitet och tillit; trygghet kan bytas mot känslan av övervakning, särskilt för dem som redan känner sig granskade.",
+        "feedback": "Vardagen kan kännas mer bevakad, och särskilt vissa grupper kan uppleva att de blir granskade och anpassar sig i onödan. Samtidigt vågar fler röra sig ute på kvällen och många känner en direkt lättnad av att någon faktiskt syns.\n\nKärna: Avskräckning och ordning genom närvaro.\nRisk: Övervakningskänsla och minskad tillit.",
         "image": "crime_police_arm.jpg",
         "characters": {
           "Styraren": 2,
@@ -232,7 +232,7 @@
       {
         "button": "Bygg relationer långsiktigt",
         "text": "Samma vuxna finns kvar över tid, lär sig namn och rutiner. Färre ingripanden, fler samtal och närvaro som känns mänsklig.",
-        "feedback": "Man blir igenkänd och sedd på torget. Men när något händer kan det kännas som att allt går för långsamt, och oron hinner växa innan effekten syns.\n\nKärna: Tillit före snabba ingripanden.\nRisk: Tålamodsprövning vid akuta toppar; om resultaten dröjer kan människor tappa hoppet och börja kräva hårdare tag.",
+        "feedback": "När något spårar ur kan det upplevas som att åtgärderna tar för lång tid, och otryggheten hinner bita sig fast innan resultaten syns. Samtidigt byggs tillit och igenkänning i vardagen, vilket ofta minskar konflikter och gör att fler vågar samarbeta och säga till.\n\nKärna: Tillit före snabba ingripanden.\nRisk: Långsam effekt vid akuta lägen.",
         "image": "crime_social.jpg",
         "characters": {
           "Bäraren": 2,
@@ -245,7 +245,7 @@
       {
         "button": "Satsa på miljö och struktur",
         "text": "Ni bygger bort risk: bättre belysning, öppnare ytor, borttaget buskage och tydliga rutiner. Riskpunkter kartläggs och åtgärdas.",
-        "feedback": "Fler tar genvägen genom parken igen. Men problemen flyttar ofta två kvarter bort, och en annan plats blir den nya ”undvik där”-punkten – trygghet kan bli ett logistiskt pussel.\n\nKärna: Förebygg genom plats och design.\nRisk: Förskjutningseffekt; brottslighet och otrygghet flyttar snarare än minskar, vilket gör att jakten på nästa ”riskhörn” aldrig tar slut.",
+        "feedback": "Problemen kan flytta sig till en annan plats, vilket gör att trygghetsarbetet blir ett evigt pussel där nästa hörn alltid väntar. Samtidigt blir flera stråk och parker mer användbara och fler vågar ta den korta vägen igen när miljön känns öppen och trygg.\n\nKärna: Förebygg genom plats och design.\nRisk: Förskjutning av problem.",
         "image": "crime_open_area.jpg",
         "characters": {
           "Arkivarien": 2,
@@ -258,7 +258,7 @@
       {
         "button": "Fokusera på konsekvens",
         "text": "Ni prioriterar snabbare utredningar och tydliga påföljder. Regeln blir enkel: stör du andras vardag får det följder.",
-        "feedback": "Signalen blir tydlig och förutsägbar. Men klimatet blir också stramare, och fler håller tillbaka i vardagen av rädsla för att hamna fel i systemet.\n\nKärna: Förutsägbar rättvisa genom konsekvens.\nRisk: Rädsla och försiktighet i vardagslivet; om systemet upplevs som hårt eller opersonligt kan det minska viljan att samarbeta och vittna.",
+        "feedback": "Klimatet blir stramare och vissa håller tillbaka eller låter bli att vittna av rädsla för att hamna fel i ett hårt och opersonligt system. Samtidigt blir reglerna tydliga och förutsägbara, och många upplever att vardagsbrott tas på allvar när följderna kommer snabbare.\n\nKärna: Förutsägbar rättvisa genom konsekvens.\nRisk: Rädsla och minskat samarbete.",
         "image": "crime_judging.jpg",
         "characters": {
           "Styraren": 2,
@@ -278,7 +278,7 @@
       {
         "button": "Aktivera snabbt",
         "text": "Tydliga krav, korta program och snabba åtgärder. Veckan får struktur: tider att passa, uppgifter att bocka av och något att rapportera.",
-        "feedback": "Fler kommer igång och får rytm i vardagen. Men det blir också lätt att hoppa mellan insatser och korta placeringar utan att något hinner bli stabilt.\n\nKärna: Tempo och aktivitet före återhämtning.\nRisk: Karusell-effekt; människor blir ”i systemet” men inte i arbete, och motivationen slits av ständiga omstarter.",
+        "feedback": "Det finns en risk att människor studsar mellan insatser, praktik och korta placeringar utan att något hinner bli stabilt och självkänslan slits av ständiga omstarter. Samtidigt kommer fler igång snabbt och många får tillbaka rytm, sammanhang och känslan av att dagarna går att styra.\n\nKärna: Tempo och aktivitet före återhämtning.\nRisk: Karusell utan stabilitet.",
         "image": "unemployment_calendar.jpg",
         "characters": {
           "Styraren": 2,
@@ -291,7 +291,7 @@
       {
         "button": "Bygg trygghet först",
         "text": "Ekonomiskt stöd kombineras med lugnare tempo och en plan som får ta tid. Stressen sjunker och fler kan börja om utan panik i magen.",
-        "feedback": "Vardagen blir stabilare och mer mänsklig. Men månaderna kan också glida förbi, och steget tillbaka kan kännas större ju längre man väntar.\n\nKärna: Stabilitet före press.\nRisk: Passivisering och förlorad fart; när tiden går utan tydliga delmål blir det svårare att återta tron på att det faktiskt går.",
+        "feedback": "Tiden kan glida och steget tillbaka kan kännas större ju längre man väntar, särskilt om delmål och uppföljning blir otydliga. Samtidigt blir vardagen stabilare och mer mänsklig, vilket kan ge kraft att återhämta sig och faktiskt orka ta nästa steg.\n\nKärna: Stabilitet före press.\nRisk: Passivisering över tid.",
         "image": "unemployment_money_time.jpg",
         "characters": {
           "Bäraren": 2,
@@ -304,7 +304,7 @@
       {
         "button": "Satsa på matchning",
         "text": "Ni lägger kraft på rätt match: praktik med mål, handledning och anpassade krav. När det klickar känns det nästan skräddarsytt.",
-        "feedback": "Träffsäkerheten ökar och fler hamnar rätt. Men alla kan inte vänta på sin perfekta match, och de som blir kvar i kön känner snabbt att tiden är deras dyraste valuta.\n\nKärna: Rätt plats före snabb placering.\nRisk: Köer och utanförskap för dem som inte passar in direkt; när matchningen tar tid kan skillnaderna mellan ”valda” och ”väntande” bli brutala.",
+        "feedback": "De som inte matchas direkt riskerar att bli kvar i väntan och känna sig bortvalda, och skillnaden mellan dem som får plats och dem som står kvar kan bli hård. Samtidigt hamnar fler rätt när det väl klaffar, vilket ofta ger längre anställningar och bättre chans att stanna kvar.\n\nKärna: Rätt plats före snabb placering.\nRisk: Köer och utanförskap.",
         "image": "unemployment_collegues_match.jpg",
         "characters": {
           "Maskmakaren": 2,
@@ -317,7 +317,7 @@
       {
         "button": "Lita på individens driv",
         "text": "Färre krav, mer frihet och stöd att forma sin egen väg. Människor uppmuntras att själva välja takt, riktning och typ av arbete.",
-        "feedback": "För vissa blir det en riktig nystart. Men för andra blir friheten en ensamhet: dagarna flyter ihop och ingen följer upp förrän det gått väldigt lång tid.\n\nKärna: Autonomi före styrning.\nRisk: Osynlig stagnation; utan stödstrukturer tappar vissa både tempo och självförtroende, och problemen upptäcks sent.",
+        "feedback": "För den som tappar fart kan friheten bli ensamhet och dagarna flyter ihop, och problemen upptäcks ofta först när mycket tid redan gått. Samtidigt kan autonomin ge en verklig nystart för många som växer av förtroende och hittar en väg som faktiskt passar.\n\nKärna: Autonomi före styrning.\nRisk: Osynlig stagnation.",
         "image": "unemployment_self_employed.jpg",
         "characters": {
           "Spegelbäraren": 2,
@@ -337,7 +337,7 @@
       {
         "button": "Bygg stark militär avskräckning",
         "text": "Ni investerar i förmåga, snabb respons och tydliga signaler. Styrkan ska förebygga konflikt och göra att hot inte ens prövar gränserna.",
-        "feedback": "Det känns tryggare att veta att kapaciteten finns. Men hotbilden tar mer plats i vardagssamtal, och nyheter om upprustning gör att världen känns lite närmare och lite hårdare.\n\nKärna: Avskräckning före avspänning.\nRisk: Normaliserad oro; när säkerhet blir en ständig bakgrund kan det höja stress och skapa ”krisstämning” även i fredstid.",
+        "feedback": "Upprustning och hotbilder tar mer plats i samtal och nyheter, och det kan skapa en mer hård och närvarande oro även när vardagen egentligen rullar på. Samtidigt ger tydlig kapacitet en starkare känsla av skydd och kan avskräcka aktörer från att ens testa gränserna.\n\nKärna: Avskräckning före avspänning.\nRisk: Normaliserad oro.",
         "image": "defence_military.jpg",
         "characters": {
           "Styraren": 2,
@@ -350,7 +350,7 @@
       {
         "button": "Satsa på totalförsvar",
         "text": "Ni stärker civil beredskap: sjukvård, transporter, matförsörjning och lokala rutiner. Alla förväntas bidra på något sätt.",
-        "feedback": "Samhället känns robust och fler vet vad de ska göra. Men vardagen får fler checklistor, och köksskåpen fylls av extra vatten och konserver som ständigt påminner om varför.\n\nKärna: Robust vardag före bekvämlighet.\nRisk: Trötthet och motstånd om krisfokuset blir permanent; när beredskap känns som en livsstil kan engagemanget mattas och bli slentrian.",
+        "feedback": "Beredskap kan kännas som en livsstil med checklistor och påminnelser som tröttar ut, och engagemanget riskerar att bli slentrian om krisfokus aldrig släpper. Samtidigt blir samhället mer robust och fler vet vad de ska göra när något händer, vilket minskar panik och ökar handlingskraft.\n\nKärna: Robust vardag före bekvämlighet.\nRisk: Beredskapströtthet.",
         "image": "defence_ambulance.jpg",
         "characters": {
           "Bäraren": 2,
@@ -363,7 +363,7 @@
       {
         "button": "Prioritera internationellt samarbete",
         "text": "Ni bygger allianser, avtal och gemensam säkerhet. Ingen står ensam - så länge alla håller ihop.",
-        "feedback": "Det känns stabilt att vara flera. Men när något skakar väntar man också på andras beslut, och handlingsutrymmet hemma kan kännas som att det ligger i någon annans mötesagenda.\n\nKärna: Gemensam trygghet före egen kontroll.\nRisk: Beroende och fördröjning; om omvärlden tvekar kan osäkerheten öka just när snabbhet behövs.",
+        "feedback": "Handlingsutrymmet hemma kan kännas beroende av andras beslut och tidplaner, och osäkerheten ökar om omvärlden tvekar när snabbhet behövs. Samtidigt ger samarbete styrka i antal och en stabilare grund, där fler resurser och gemensamma löften kan avskräcka hot.\n\nKärna: Gemensam trygghet före egen kontroll.\nRisk: Beroende och fördröjning.",
         "image": "defence_alliance.jpg",
         "characters": {
           "Spegelbäraren": 2,
@@ -376,7 +376,7 @@
       {
         "button": "Förbered vardagen för kris",
         "text": "Ni satsar på information, egenberedskap och lokala övningar. Fler vet var ficklampan är, hur man laddar radion och vem man ska ringa.",
-        "feedback": "Man känner sig mer redo och praktiskt förberedd. Men varje stormvarning och driftstörning blir också en påminnelse om hur snabbt vardagen kan rubbas.\n\nKärna: Handlingsförmåga före trygghetsillusion.\nRisk: Ständig beredskapskänsla; om allt tolkas som förvarning kan stressen öka och människor bli utmattade av att alltid vara ”på”.",
+        "feedback": "Om allt tolkas som förvarning kan stressen öka och människor bli utmattade av att alltid vara i beredskapsläge, även när inget händer. Samtidigt stärker övningar och kunskap den praktiska tryggheten, så fler känner kontroll och kan agera snabbt när vardagen rubbas.\n\nKärna: Handlingsförmåga före trygghetsillusion.\nRisk: Ständig beredskapsstress.",
         "image": "defence_gear.jpg",
         "characters": {
           "Narrstrategen": 2,

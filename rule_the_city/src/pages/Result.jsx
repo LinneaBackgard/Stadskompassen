@@ -3,7 +3,7 @@ import Container from "react-bootstrap/Container";
 import characters from "../data/characters.json"
 import { useState } from 'react';
 
-export default function Result({ characterScores }) {
+export default function Result({ characterScores, setCharacterScores, setPage }) {
     let maxKey, maxValue = 0;
     for (const [key, value] of Object.entries(characterScores)) {
         if (value > maxValue) {
@@ -57,6 +57,12 @@ export default function Result({ characterScores }) {
                         <Card.Text className="fs-6"><a href="#" style={{color: "#23a5aaff"}} onClick={() => setCharacterKey(key)}>{key}</a>: {characterScores[key] ? characterScores[key] : 0}</Card.Text>
                     ))}
                 </Card.Body>
+            </Card>
+            <Card className="p-4 mt-4">
+                <button className="btn fs-5" style={{backgroundColor: "#fcdc4fff"}} onClick={() => {
+                    setPage("question");
+                    setCharacterScores({});
+                }}>Spela igen</button>
             </Card>
         </Container>
     )

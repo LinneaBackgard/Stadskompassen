@@ -12,11 +12,12 @@ export default function Feedback({
     setPage,
 }) {
     const handleNext = () => {
-        if (questionIndex >= maxQuestionIndex) {
-            setPage("result");
-            return; // viktigt så ni inte ökar index efter result
-        }
         setOption(-1);
+        if (questionIndex >= maxQuestionIndex) {
+            setQuestionIndex(0);
+            setPage("result");
+            return;
+        }
         setQuestionIndex(questionIndex + 1);
     };
 
